@@ -18,7 +18,6 @@ spec:
           ports:
             - name: nodejs-port
               containerPort: 31002
-
 ---
 apiVersion: v2
 kind: Service
